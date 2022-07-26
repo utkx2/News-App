@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russia restarting major gas pipeline, expands Ukraine war goals - Reuters.com",
+            "description": "Russia is resuming supplies of gas via a major pipeline to Europe on Thursday, the pipeline operator said, amid concerns Moscow would use its vast energy exports to push back against Western pressure over its invasion of Ukraine.",
+            "url": "https://www.reuters.com/world/europe/russia-expands-ukraine-war-goals-fighting-toll-mounts-2022-07-21/",
+            "urlToImage": "https://www.reuters.com/resizer/RWpIUqqT4W1J1f9xfW5DaTQRpn4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PPL6A6BLXRNZJKI63JHEOBACBM.jpg",
+            "publishedAt": "2022-07-21T06:13:00Z",
+            "content": "July 21 (Reuters) - Russia is resuming supplies of gas via a major pipeline to Europe on Thursday, the pipeline operator said, amid concerns Moscow would use its vast energy exports to push back agai… [+5626 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Silvia Amaro",
+            "title": "Nord Stream 1 resumes gas flows from Russia to Europe after fears of complete cutoff - CNBC",
+            "description": "The operator of Nord Stream 1, a key gas pipeline which runs from Russia to Germany, said it was in the process of resuming flows to Europe.",
+            "url": "https://www.cnbc.com/2022/07/21/nord-stream-1-operator-says-gas-flows-from-russia-to-europe-are-being-resumed-after-fears-of-complete-cutoff.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107090204-16581591352022-07-18t154329z_1450481610_rc2ays9n5bms_rtrmadp_0_ukraine-crisis-gazprom-nordstream-factbox.jpeg?v=1658159209&w=1920&h=1080",
+            "publishedAt": "2022-07-21T05:33:54Z",
+            "content": "The operator of Nord Stream 1, a key gas pipeline which runs from Russia to Germany, said Thursday it was in the process of resuming flows to Europe.\r\nThere had been concerns across the region that t… [+1917 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Richard Lawler",
+            "title": "Dell's XPS 13 Plus is the first laptop certified for Ubuntu 22.04 LTS - The Verge",
+            "description": "Ten years after launching Project Sputnik to push preinstalled Linux on OEM laptops, Dell and Canonical announced the XPS 13 Plus is certified to run Ubuntu 22.04 LTS.",
+            "url": "https://www.theverge.com/2022/7/21/23272166/dell-xps-13-plus-project-sputnik-linux-laptop-ubuntu",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/nEQaYydLIg99hxuC4DL7C_UyACw=/0x413:2500x1722/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23890436/dell_xps_13_plus_ubuntu_certified.jpg",
+            "publishedAt": "2022-07-21T04:43:46Z",
+            "content": "Yes, the one with the touch-sensitive buttons.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nDell XPS 13 Plus running Ubuntu 22.04 LTS\r\nImage: D… [+2436 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Deepti Hajela",
+            "title": "Funeral held for Ivana Trump; ex-president pays tribute - The Associated Press",
+            "description": "NEW YORK (AP) — Ivana Trump, the 1980s style icon and businesswoman who helped Donald Trump build the empire that put him on a road toward the White House, lived a “beautiful life,” the former president recalled as loved ones paid final respects to her Wednes…",
+            "url": "https://apnews.com/article/entertainment-religion-new-york-manhattan-city-663489066fdf75249f988c3327e6a554",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/ba0b42328745428bbc417732e8171bc9/3000.jpeg",
+            "publishedAt": "2022-07-21T04:34:52Z",
+            "content": "NEW YORK (AP) Ivana Trump, the 1980s style icon and businesswoman who helped Donald Trump build the empire that put him on a road toward the White House, lived a beautiful life, the former president … [+2179 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Evelyn Cheng",
+            "title": "Baidu's new robotaxi can drive without a steering wheel and is 50% cheaper - CNBC",
+            "description": "The Apollo RT6 comes with a detachable steering wheel, as the car will no longer necessarily need one to drive.",
+            "url": "https://www.cnbc.com/2022/07/21/baidus-robotaxi-can-drive-without-a-steering-wheel-car-price-slashed.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107091855-1658367613460-Image_from_iOS_63.jpg?v=1658367811&w=1920&h=1080",
+            "publishedAt": "2022-07-21T04:03:32Z",
+            "content": "Baidu unveiled on July 21, 2022, the sixth generation of its self-driving electric car built for ride-hailing rides at a cost nearly 50% below that of a model announced last year.\r\nBEIJING Chinese te… [+2234 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jeremy Herb and Marshall Cohen, CNN",
+            "title": "What we know about Trump's inaction during the 187 minutes of January 6 - CNN",
+            "description": "The House January 6 committee's final prime-time hearing Thursday is all about 187 minutes.",
+            "url": "https://www.cnn.com/2022/07/20/politics/what-we-learned-trump-187-minutes/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220707130851-trump-speech-january-6-restricted-super-tease.jpg",
+            "publishedAt": "2022-07-21T03:07:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Mike Florio",
+            "title": "Buccaneers land Kyle Rudolph - NBC Sports",
+            "description": "The Buccaneers apparently have taken “I’m done playing, and I mean it” for an answer.Veteran tight end Kyle Rudolph has signed a one-year deal with the Buccaneers, according to ESPN.Rudolph, who spent 10 years with the Vikings before a one-year stint with the…",
+            "url": "https://profootballtalk.nbcsports.com/2022/07/20/buccaneers-land-kyle-rudolph/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/07/GettyImages-1197714354-e1658371301787.jpg",
+            "publishedAt": "2022-07-21T02:43:00Z",
+            "content": "The Buccaneers apparently have taken Im done playing, and I mean it for an answer.\r\nVeteran tight end Kyle Rudolph has signed a one-year deal with the Buccaneers, according to ESPN.\r\nRudolph, who spe… [+1182 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Tesla profit tops target; Musk sees no demand problem - Reuters",
+            "description": "Tesla Inc <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> on Wednesday reported a smaller-than-expected drop in quarterly profit as a string of price increases on its electric vehicles (EVs) helped offset production challenges …",
+            "url": "https://www.reuters.com/business/autos-transportation/tesla-misses-quarterly-revenue-estimates-production-challenges-2022-07-20/",
+            "urlToImage": "https://www.reuters.com/resizer/btIzkkK2pxfFTXVxJW7NILos72c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7QBXGVQ3ERPA3OJRZ2T5YYJDCI.jpg",
+            "publishedAt": "2022-07-21T02:25:00Z",
+            "content": "July 20 (Reuters) - Tesla Inc (TSLA.O) on Wednesday reported a smaller-than-expected drop in quarterly profit as a string of price increases on its electric vehicles (EVs) helped offset production ch… [+3414 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Host Steph Curry wins for best record-breaking performance | 2022 ESPYS - ESPN",
+            "description": "Stephen Curry hits the stage this time at the 2022 ESPY Awards not as host, but as the winner for the best record-breaking performance.✔️Subscribe to ESPN+ h...",
+            "url": "https://www.youtube.com/watch?v=SVBR3DUG8No",
+            "urlToImage": "https://i.ytimg.com/vi/SVBR3DUG8No/maxresdefault.jpg",
+            "publishedAt": "2022-07-21T02:04:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Matt Viser, Marianna Sotomayor, Paul Kane, Leigh Ann Caldwell",
+            "title": "Amid GOP support, Senate Democrats see hope for same-sex marriage vote - The Washington Post",
+            "description": "The move to protect same-sex marriage offers an early window into how Democrats plan to solidify individual rights in the aftermath of the Supreme Court decision to overturn Roe v. Wade.",
+            "url": "https://www.washingtonpost.com/politics/2022/07/20/same-sex-marriage-vote/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KZIGXLHVW4I6ZAO3VQD2HFFINM.jpg&w=1440",
+            "publishedAt": "2022-07-21T01:32:00Z",
+            "content": "Comment on this story\r\nSenate Democrats on Wednesday signaled an eagerness to swiftly vote on legislation that would protect same-sex marriage, offering an early window into the partys plans to solid… [+10536 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Felix Ng",
+            "title": "Experts reveal what Tesla's $936M sell-off means for Bitcoin - Cointelegraph",
+            "description": "Tesla’s sale of its Bitcoin for fiat hasn’t dampened enthusiasm for the cryptocurrency, dipping only 2.6% as a result of the results filing.",
+            "url": "https://cointelegraph.com/news/experts-reveal-what-tesla-s-936m-sell-off-means-for-bitcoin",
+            "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDcvMTYzMjExYTEtMzU5Ni00YWViLWFjZTItMjRhNTQ3NTI0MTcwLmpwZw==.jpg",
+            "publishedAt": "2022-07-21T01:23:12Z",
+            "content": "Crypto industry experts are largely unfazed by Teslas decision to sell 75% of its Bitcoin (BTC) holdings, saying its a fairly typical strategy for companies to improve cash flow during economic slowd… [+3477 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Matthew Brown",
+            "title": "Giuliani ordered to testify before Fulton County grand jury August 9 - The Washington Post",
+            "description": "Giuliani, a former New York mayor and personal lawyer to Trump, has been an outspoken proponent of former President Donald Trump's false election claims.",
+            "url": "https://www.washingtonpost.com/national-security/2022/07/20/giuliani-grand-jury-georgia/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WQA7PIAFJ4I63C7LFNHEQGYVAA.jpg&w=1440",
+            "publishedAt": "2022-07-21T01:07:00Z",
+            "content": "Comment on this story\r\nRudy Giuliani, the former New York mayor who became President Donald Trumps personal attorney, was ordered to appear next month before a special grand jury investigating potent… [+2564 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Eliza Fawcett",
+            "title": "Georgia’s 6-Week Abortion Ban Begins Immediately After Court Ruling - The New York Times",
+            "description": "A federal appeals court said the law, which was signed in 2019 but quickly halted for violating Roe v. Wade, could go into effect.",
+            "url": "https://www.nytimes.com/2022/07/20/us/georgia-abortion-ban.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/07/20/us/20georgia-abortion1/20georgia-abortion1-facebookJumbo.jpg",
+            "publishedAt": "2022-07-21T00:36:22Z",
+            "content": "The abortion legislations expanded definition of personhood will have staggering effects on other state laws, Dr. Kreis said. The Atlanta Journal-Constitution said on Wednesday that fetuses with card… [+829 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KSAT San Antonio"
+            },
+            "author": "David Ibañez",
+            "title": "Federal grand jury indicts two men in fatal tractor-trailer incident in San Antonio - KSAT San Antonio",
+            "description": "A federal grand jury in San Antonio on Wednesday indicted two men charged in the June fatal tractor-trailer incident on the city’s Southwest Side that resulted in the deaths of 53 people and 11 more injured.",
+            "url": "https://www.ksat.com/news/local/2022/07/21/federal-grand-jury-indicts-two-men-in-fatal-tractor-trailer-incident-in-san-antonio/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/KEOHC5DBLNBW5DPI6TPSFWSXGU.jpg?_a=ATAK9d60",
+            "publishedAt": "2022-07-21T00:32:43Z",
+            "content": "SAN ANTONIO A federal grand jury in San Antonio on Wednesday indicted two men charged in the June fatal tractor-trailer incident on the citys Southwest Side that resulted in the deaths of 53 people a… [+1391 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Former religious right leader: I saw our phrases in Alito's abortion opinion - POLITICO",
+            "description": "Rev. Rob Schenck outlines his former group’s stealth efforts to get conservative justices to 'be bolder.'",
+            "url": "https://www.politico.com/news/2022/07/20/religious-right-alito-abortion-00047055",
+            "urlToImage": "https://static.politico.com/f4/5d/0755c8c34c7c9b628319c8a78090/https-delivery.gettyimages.com/downloads/1367042648",
+            "publishedAt": "2022-07-21T00:27:59Z",
+            "content": "Schencks latest claims are fueling a heated debate about outside influences on the court and whether justices family and social relationships are driving the courts agenda and increasingly conservati… [+6151 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Tomás Mier",
+            "title": "Minneapolis Venue First Avenue Calls Off Dave Chappelle Show - Rolling Stone",
+            "description": "A local reporter, and several people on Twitter, claim \"upset staffers\" planned to call out the night of the show",
+            "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/first-avenue-cancels-dave-chappelle-show-1386054/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2022/07/DaveChappelle.jpg",
+            "publishedAt": "2022-07-20T23:36:18Z",
+            "content": "Attendees who planned to see Dave Chappelle at Minneapolis’ iconic First Avenue will have to reroute to Varsity Theater tonight. On Wednesday evening, the venue originally scheduled to host the comed… [+3144 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Evan Real",
+            "title": "'Southern Charm' stars Shep Rose and Taylor Ann Green split: report - Page Six",
+            "description": "“[He] refused to commit to Taylor, telling her that he doesn’t want to be with just one person and change his lifestyle,” a source told People.",
+            "url": "https://pagesix.com/2022/07/20/southern-charm-stars-shep-rose-and-taylor-ann-green-split/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/07/southern-charm-breakup-index.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2022-07-20T23:25:00Z",
+            "content": "Another relationship gone south. \r\nSouthern Charm stars Shep Rose and Taylor Ann Green have split after two years of dating, according to People. \r\nInsiders told the outlet that Rose has a real issue… [+3165 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SFGate"
+            },
+            "author": "Amy Graff",
+            "title": "SF monkeypox cases up to 141, vaccine waits reportedly hit 9 hours - SFGATE",
+            "description": "Residents who want shots are being turned away at clinics.",
+            "url": "https://www.sfgate.com/bayarea/article/san-francisco-monkeypox-cases-rise-17317868.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/26/41/35/22681461/3/rawImage.jpg",
+            "publishedAt": "2022-07-20T23:17:27Z",
+            "content": "A monkeypox vaccine clinic at San Francisco General Hospital opened to long lines Wednesday morning and turned away many people, ABC7 reported.The San Francisco Department of Public Health has reques… [+3023 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "John Bacon, Tom Vanden Brook, Jeanine Santucci",
+            "title": "US plans to send more rocket launchers to Ukraine; Russia takes aim beyond Donbas region: Live updates - USA TODAY",
+            "description": "Ukraine's defense against Russia in the eastern part of the country has become an increasingly brutal war of attrition. Latest updates.",
+            "url": "https://www.usatoday.com/story/news/world/2022/07/20/live-ukraine-updates/10104677002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/07/21/USAT/23254547-fcbf-4a28-b7df-e84e5a0a408c-AP22201798166942.jpg?crop=3671,2065,x0,y186&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2022-07-20T22:41:52Z",
+            "content": "The Pentagon is sending four more rocket artillery launchers to Ukraine as its defense against Russia in the eastern part of the country continues in what has become an increasingly brutal war of att… [+5388 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lost Coast Outpost"
+            },
+            "author": null,
+            "title": "COVID-19 Statistics | July 20, 2022 - Lost Coast Outpost",
+            "description": "COVID-19 Daily Report for Humboldt County, July 20, 2022",
+            "url": "https://lostcoastoutpost.com/covid-report/2022/jul/20/",
+            "urlToImage": "https://lostcoastoutpost.com/media/uploads/flatpage/106/cov.jpg",
+            "publishedAt": "2022-07-20T22:21:20Z",
+            "content": "Humboldt County Public Health reported today the hospitalization of a resident 80 or older. No new deaths were reported. An additional 303 confirmed positive cases of COVID-19 were announced as well … [+5316 chars]"
+        }
+    ]
+}
